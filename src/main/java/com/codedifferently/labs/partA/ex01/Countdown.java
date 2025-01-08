@@ -10,7 +10,9 @@ public class Countdown {
     }
 
     public static String countUpLoop() {
-
+            for (int i = 0; i <=5; i++) {
+                System.out.println(i);
+            }
         return null;
     }
 
